@@ -1,4 +1,4 @@
-# Tortoise_and_Hare_Race_Simulation
+# Tortoise and Hare Race Simulation
 A program to simulate the race between the tortoise and the hare.
 
 ## Getting Started
